@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This Repo is only for Coursera Applied Data Science Capstone project
+This repository is using only Coursera Capstone Project
